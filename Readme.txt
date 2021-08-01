@@ -1,0 +1,1 @@
+Gathered some Facebook posts related to Covid-19 in the Bangla language and then ran LDA topic-modelling on it to analyse the word associations in the data.
